@@ -6,6 +6,7 @@
 
 
 ### 🤖 Linguagens e Tecnologias
+
 <img 
     align="left" 
     alt="MongoDB"
@@ -62,7 +63,7 @@
     title="Spring" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
 />
 
 <img 
