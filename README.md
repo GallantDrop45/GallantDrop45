@@ -1,7 +1,7 @@
 ## 👋 Olá! Eu sou o Tiago Xavier
 
 🎓 Estudante do último semestre de **Ciência da Computação**  
-📍 Moro em **São Paulo - SP**  
+📍 Moro em **São Paulo**  
 🚀 Atualmente, estou em busca da minha primeira oportunidade na área de **TI** para aplicar meus conhecimentos e crescer profissionalmente  
 
 
